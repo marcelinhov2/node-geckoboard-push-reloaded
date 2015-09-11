@@ -1,11 +1,11 @@
 {
-  "author": "Dan Jenkins <dan.jenkins@holidayextras.com> (http://www.holidayextras.co.uk/)",
-  "name": "geckoboard-push",
-  "description": "Send data to Geckoboard via their new push API",
+  "author": "marcelinhov2 - FORKED FROM: Dan Jenkins <dan.jenkins@holidayextras.com> (http://www.holidayextras.co.uk/)",
+  "name": "geckoboard-push-reloaded",
+  "description": "Send data to Geckoboard via their new push API - FORKED FROM: git://github.com/danjenkins/node-geckoboard-push.git",
   "version": "1.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/danjenkins/node-geckoboard-push.git"
+    "url": "git@github.com:marcelinhov2/node-geckoboard-push-reloaded.git"
   },
   "main": "./index",
   "keywords": [
